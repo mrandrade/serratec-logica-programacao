@@ -12,7 +12,11 @@ var regra;
 //Processamento
 idade = anoAtual - anoNasc;
 regra = maiorIdade && (idade >= 18);
+console.log("Cidadão é emancipado: ", regra);
+
+/*
 if (regra)
     console.log("Você é emancipado!"); //Saída
 else
     console.log("Que pena... Você não é emancipado!"); //Saída
+*/

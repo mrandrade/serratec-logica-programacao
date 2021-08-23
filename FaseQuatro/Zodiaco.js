@@ -10,6 +10,10 @@ var éAquárioMesFev = mesNasc == 2;
 var éAquarioDiaJan = 21 <= diaNasc && diaNasc <= 31;
 var éAquárioDiaFev = 1 <= diaNasc && diaNasc <= 19;
 //Processamento
+var signoAquario = (21 <= diaNasc && diaNasc <= 31) || (1 <= diaNasc && diaNasc <= 19);
+var inteligente = signoAquario;
+console.log("Você é inteligente: ",inteligente);
+/*
 if (éAquárioMesJan && éAquarioDiaJan) {
     console.log("Parabéns! Você é inteligente!"); //Saída
 }else if (éAquárioMesFev && éAquárioDiaFev) {
@@ -17,3 +21,4 @@ if (éAquárioMesJan && éAquarioDiaJan) {
 } else {
     console.log("Que pena... Você poderia de ter sido de aquário."); //Saída
 }
+*/

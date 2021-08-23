@@ -9,7 +9,10 @@ var tempLimite = temperatura < 37.5;
 var usaMascara = mascara == "S";
 var segueRegras = (tempLimite && usaMascara);
 //Processamento
+console.log("Autorizar a entrada:", segueRegras);
+/*
 if (segueRegras)
     console.log("Sua entrada foi permitida!"); //Saída
 else
     console.log("Sua entrada foi negada! Sua temperatura está acima de 37.5 ou você está sem máscara."); //Saída
+*/

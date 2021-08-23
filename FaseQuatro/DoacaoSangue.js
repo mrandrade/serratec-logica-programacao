@@ -16,8 +16,12 @@ var doacaoRecente = prompt("Você doou sangue recentemente (S OU N): ");
 //Processamento
 var podeDoar = (idadeInf == "N" && idadeSup == "N" && peso == "N" && gravidez == "N" && hipertensao == "N" && malaria == "N" && doacaoRecente == "N");
 //Saída
+console.log("Pode doar sangue?", podeDoar);
+
+/*
 if (podeDoar) {
     console.log("Você está apto a doar sangue.");
 } else {
     console.log("Infelizmente, você não está apto a doar sangue.");
 }
+*/
