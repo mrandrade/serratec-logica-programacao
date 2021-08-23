@@ -1,0 +1,21 @@
+// Forma Conceitual
+Integer qtdeDeVendedoresDaLoja;
+String endereçoCompleto;
+Float preçoEtanol;
+Boolean estadoIluminacao;
+String cep;
+Integer numeroDoAndar;
+Boolean botãoElevadorFoiPressionado;
+Data aniversárioProfessor;
+Float pesoDoPrato;
+Integer numeroDeBois;
+Data diaPáscoa;
+Integer qtdeDeLaranjas;
+Char vogal;
+String tituloDoLivro;
+Integer limiteDeCartão;
+Data horaDoJogo;
+Float alturaPredio;
+Integer numeroDePags;
+Boolean estáOcupado;
+Char alternativaDeMúltiplaEscolha;

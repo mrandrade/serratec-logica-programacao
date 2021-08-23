@@ -1,0 +1,21 @@
+// Forma Conceitual
+var qtdeDeVendedoresDaLoja = 20;
+var endereçoCompleto = "Avenida Brasil, 500";
+var preçoEtanol = 4.60;
+var estadoIluminacao = true;
+var cep = "21000-000";
+var numeroDoAndar = 5;
+var botãoElevadorFoiPressionado = false;
+var aniversárioProfessor = "31/08";
+var pesoDoPrato = 0.800;
+var numeroDeBois = 120;
+var diaPáscoa = "12/04/2021";
+var qtdeDeLaranjas = 36;
+var vogal = "a";
+var tituloDoLivro = "Harry Potter";
+var limiteDeCartão = 1000;
+var horaDoJogo = "";
+var alturaPredio = 30.0;
+var numeroDePags = 96;
+var estáOcupado = true;
+var alternativaDeMúltiplaEscolha = "a";

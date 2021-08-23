@@ -1,0 +1,22 @@
+Tipos de dados | atribuição
+
+a. Quantidade de vendedores da loja == Integer
+b. Nome da rua, com número e complemento == String
+c. Preço do etanol comum == Float
+d. Estado de iluminação de um lâmpada == Boolean
+e. CEP do endereço, com hífen == String
+f. Mostrador com um dígito dentro do elevador, indicando o andar do prédio onde ele está passando == Integer
+g. Led que indica o pressionamento do botão do elevador == Boolean
+h. Data de aniversário do professor == Data
+i. Peso do prato na balança do restaurante == Float
+j. Número de bois no curral da fazenda == Integer
+k. Dia completo da páscoa nesse ano == Data
+l. Quantidade de laranjas na caixa == Integer
+m. Uma vogal minúscula == Char
+n. Título de um livro == String
+o. Limite do cartão de crédito == Integer
+p. Horário de transmissão do jogo == Data
+q. Altura de um prédio == Float
+r. Páginas do caderno == Integer
+s. Sala de reunião está disponível (ou ocupada) == Boolean
+t. Alternativas do enunciado da questão de múltipla escolha == Char

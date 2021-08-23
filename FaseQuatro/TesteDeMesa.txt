@@ -1,0 +1,9 @@
+/----Teste----/
+var
+prompt = API
+movimento = "sim"
+luzes = "sim"
+ligado = true
+Responda algumas perguntas com "sim" ou "não"
+Concluímos
+.
