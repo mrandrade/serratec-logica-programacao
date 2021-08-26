@@ -1,6 +1,5 @@
 - Atribuição
-
-    Cada variável recebe um valor.
+*
 
 - Decisão
 
