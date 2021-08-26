@@ -22,7 +22,7 @@
 
 # 6. Segundo o professor, qual o percentual de importância do zero na programação?
 
-    50%
+    100%
 
 # 7. No editor de código, o que acontece ao digitar Shift + S?
 
