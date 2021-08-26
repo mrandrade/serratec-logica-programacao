@@ -16,15 +16,3 @@ console.log("---Fim da Contagem---");
 // } else {
 //     console.log("O número é negativo.")
 // }
-
-
-
-
-
-
-
-
-
-
-
-
